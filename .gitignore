@@ -1,0 +1,9 @@
+# The assignment brief itself is Namoza's document — keep it out of the repo.
+Namoza Developer Assignment.pdf
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
